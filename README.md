@@ -19,10 +19,12 @@ I am an indie game developer with a strong passion for creating immersive and en
 <!-- - **Cross Platform Chat-Bots**: Coming soon-->
 - **Virtual Reality (VR)**: Passionate about creating VR applications that offer unique and interactive experiences, such as [Meditation in the Backyard](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.
 
+<!--
 ### Personal Websites
 - [Arts and Games Products](https://www.dangoiz.com)
 
 - [Technology blog](https://dangoizdev.notion.site/9f97b2b226ad4d0280601c180e130837?v=129bb57af88842b4af7f68c719ff57cc)
+-->
 
 ## Projects
 ### Games on Steam
