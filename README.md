@@ -55,6 +55,12 @@ I play game jams mainly as **programmer** and **game designer**.
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+</p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
