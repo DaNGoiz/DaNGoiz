@@ -16,21 +16,21 @@ I am an indie game developer with a strong passion for creating immersive and en
 
 - **Computer Graphics**: Continuously exploring the latest advancements in shaders, animations, and rendering techniques.
 - **Robotics**: Member of HKU Robocon.
-- **Cross Platform Chat-Bots**: 
-- **Virtual Reality (VR)**: Passionate about creating VR applications that offer unique and interactive experiences.
+<!-- - **Cross Platform Chat-Bots**: Coming soon-->
+- **Virtual Reality (VR)**: Passionate about creating VR applications that offer unique and interactive experiences, such as [Meditation in the Backyard](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.
 
 ### Personal Websites
-[Arts and Games Products](https://www.dangoiz.com)
+- [Arts and Games Products](https://www.dangoiz.com)
 
-[Technology blog](https://dangoizdev.notion.site/9f97b2b226ad4d0280601c180e130837?v=129bb57af88842b4af7f68c719ff57cc)
+- [Technology blog](https://dangoizdev.notion.site/9f97b2b226ad4d0280601c180e130837?v=129bb57af88842b4af7f68c719ff57cc)
 
 ## Projects
 ### Games on Steam
-[Section Six Requiem](https://store.steampowered.com/app/2551590/Section_Six_Requiem/)
+- [Section Six Requiem](https://store.steampowered.com/app/2551590/Section_Six_Requiem/)
 
-[Kelvin and the Chateau](https://store.steampowered.com/app/1561910/__Kelvin_And_The_Chateau/)
+- [Kelvin and the Chateau](https://store.steampowered.com/app/1561910/__Kelvin_And_The_Chateau/)
 
-[QR Code to Fame](https://store.steampowered.com/app/1551030/_/)
+- [QR Code to Fame](https://store.steampowered.com/app/1551030/_/)
 
 ### GameJams
 I play game jams mainly as **programmer** and **game designer**.
