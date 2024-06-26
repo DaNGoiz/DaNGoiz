@@ -61,10 +61,10 @@ I play game jams mainly as **programmer** and **game designer**.
   <img alt="github-snake" src="github-snake.svg" />
 </picture> -->
 
-<p align="center">
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaNGoiz/DaNGoiz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/DaNGoiz/DaNGoiz/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DaNGoiz/DaNGoiz/output/github-snake.svg" />
-</p>
+</picture>
 
 
