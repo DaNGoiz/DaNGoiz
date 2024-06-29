@@ -41,9 +41,9 @@ I play game jams mainly as **programmer** and **game designer**.
 | Global Game Jam 2024 | Make Me Laugh | 7 days | [Echo Dungeon](https://github.com/DaNGoiz/echo-dungeon) |
 | CiGA Game Jam 2023 | Touch | 48 hours | [Cat Dash](https://github.com/DaNGoiz/cat-dash) |
 | BOOOM Game Jam 2023 | N/A | 3 weeks | [Section Six Requiem](https://store.steampowered.com/app/2551590/Section_Six_Requiem/) |
-| Unity Newbies Jam 2022 | End Where You Started | 7 days | Sisyphus(); |
-| CiGA Game Jam 2022 | Trick | 48 hours | Mind Space |
-| Global Game Jam 2022 | Duality | 48 hours | BeesComing |
+| Unity Newbies Jam 2022 | End Where You Started | 7 days | [Sisyphus();](https://github.com/DaNGoiz/sisyphus) |
+| CiGA Game Jam 2022 | Trick | 48 hours | [Mind Space](https://github.com/DaNGoiz/mind-space) |
+| Global Game Jam 2022 | Duality | 48 hours | [BeesComing](https://github.com/DaNGoiz/bees-coming) |
 | CiGA Game Jam 2021 | Lost and Found | 48 hours | [QR Code to Fame](https://store.steampowered.com/app/1551030/_/) |
 | CiGA Game Jam 2020 | Consumerism | 48 hours | [Cracked](https://www.youxibd.com/gamejam/cgjcyber2020/detail/452) |
 
