@@ -15,7 +15,7 @@ I am an indie game developer with a strong passion for creating immersive and en
 ### Interests
 
 - **Computer Graphics**: Continuously exploring the latest advancements in shaders, animations, and rendering techniques.
-- **Robotics**: Member of HKU Robocon.
+<!-- - **Robotics**: Member of HKU Robocon.-->
 <!-- - **Cross Platform Chat-Bots**: Coming soon-->
 - **Virtual Reality (VR)**: Passionate about creating VR applications that offer unique and interactive experiences, such as [Meditation in the Backyard](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.
 
