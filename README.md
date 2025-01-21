@@ -38,6 +38,7 @@ I am an indie game developer with a strong passion for creating immersive and en
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
+| Global Game Jam 2024 | Bubble | 48 hours | [Return to Sea Level](https://github.com/DaNGoiz/back-to-sea-level) |
 | Unity Game Jam 2024 | It Never Ends | 1 week | [Sushi Strikes Back](https://github.com/aidendenden/UnityGamejam2024) |
 | BOOOM Porsche Jam 2024 | N/A | 3 weeks | [Origina Intention](https://gitee.com/Li_jiang233/OriginaIntention/tree/master) |
 | CiGA Game Jam 2024 | Limit and Limitless | 48 hours | [Vision of Limitless](https://github.com/DaNGoiz/vision-of-limitless) |
@@ -51,11 +52,10 @@ I play game jams mainly as **programmer** and **game designer**.
 | CiGA Game Jam 2020 | Consumerism | 48 hours | [Cracked](https://www.youxibd.com/gamejam/cgjcyber2020/detail/452) |
 
 
-
----
+<!--
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=DaNGoiz&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+</p> -->
 
 
 <!-- <picture>
