@@ -7,16 +7,14 @@
 
 I am an indie game developer with a strong passion for creating immersive and engaging gaming experiences. My skills spans across game design and development, modding, and crafting custom game engines. 
 
-- **Game Engines**: Extensive experience with Unity, Godot, Cocos2D, UE5, and RPG Maker (MV/VX Ace/MZ). Interested in building custom game engines to suit unique project needs, such as TRPG Replay Maker.
+- **Game Engines**: Extensive experience with Unity, Godot, Cocos2D, UE5, and RPG Maker. Interested in building custom game engines to suit unique project needs, such as TRPG Replay Maker.
 - **Graphics Programming**: Focused on computer graphics, with interests in shaders, spine animation, ray tracing, procedural generation, and PBR.
-- **Gameplay Preferences**: Enjoys RPG, survival, sandbox, action, Sokoban puzzles, card games, and COCTRPGs.
-- I love all kinds of indie games. My favourite games of the year is **Celeste** and **Animal Well**.
 
 ### Interests
-
-- **Computer Graphics**: Continuously exploring the latest advancements in shaders, animations, and rendering techniques.
+- **Gameplay Deisgn Preferences**: Enjoys RPG, survival, sandbox, action, Sokoban puzzles and card games.
+- I love all kinds of indie games. My favourite games of the year is **Celeste** and **Animal Well**.
+- Also into TTRPGs: used to roll deep in COC and FU; recently wandered into the D&D multiverse and forgot the way out.
 <!-- - **Robotics**: Member of HKU Robocon.-->
-<!-- - **Cross Platform Chat-Bots**: Coming soon-->
 - **Virtual Reality (VR)**: Passionate about creating VR applications that offer unique and interactive experiences, such as [Meditation in the Backyard](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.
 
 <!--
@@ -38,7 +36,8 @@ I am an indie game developer with a strong passion for creating immersive and en
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
-| Global Game Jam 2025 | Bubble | 48 hours | [Beans Co](https://github.com/AkaCMD/GGJ2025) |
+| CiGA Game Jam 2025 | Everyting is Alive | 48 hours | [Color it Out](https://github.com/DaNGoiz/CiGAGameJam2025) |
+| Global Game Jam 2025 | Bubble | 48 hours | [Beans Co.](https://github.com/AkaCMD/GGJ2025) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Return to Sea Level](https://github.com/DaNGoiz/back-to-sea-level) |
 | Unity Game Jam 2024 | It Never Ends | 1 week | [Sushi Strikes Back](https://github.com/aidendenden/UnityGamejam2024) |
 | BOOOM Porsche Jam 2024 | N/A | 3 weeks | [Origina Intention](https://gitee.com/Li_jiang233/OriginaIntention/tree/master) |
