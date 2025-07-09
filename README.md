@@ -4,18 +4,18 @@
 
 
 ## About Me
+I’m an indie game developer with a deep passion for building immersive, engaging experiences. My work spans game design, programming, modding, and custom engine development.
 
-I am an indie game developer with a strong passion for creating immersive and engaging gaming experiences. My skills spans across game design and development, modding, and crafting custom game engines. 
+###🧩 Core Skills
+**Game Engines**: Extensive experience with Unity, Godot, Cocos2D, Unreal Engine 5, and RPG Maker. I also enjoy building custom engines tailored to specific needs — such as a TRPG replay system.
+**Graphics Programming**: Experienced in shader programming, spine animation, ray tracing, procedural generation, and PBR.
 
-- **Game Engines**: Extensive experience with Unity, Godot, Cocos2D, UE5, and RPG Maker. Interested in building custom game engines to suit unique project needs, such as TRPG Replay Maker.
-- **Graphics Programming**: Focused on computer graphics, with interests in shaders, spine animation, ray tracing, procedural generation, and PBR.
-
-### Interests
-- **Gameplay Deisgn Preferences**: Enjoys RPG, survival, sandbox, action, Sokoban puzzles and card games.
-- I love all kinds of indie games. My favourite games of the year is **Celeste** and **Animal Well**.
-- Also into TTRPGs: used to roll deep in COC and FU; recently wandered into the D&D multiverse and forgot the way out.
-<!-- - **Robotics**: Member of HKU Robocon.-->
-- **Virtual Reality (VR)**: Passionate about creating VR applications that offer unique and interactive experiences, such as [Meditation in the Backyard](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.
+###🎮 Interests
+**Gameplay Deisgn Preferences**: Drawn to RPGs, survival & sandbox, Sokoban  puzzles, and card-based systems.
+I love all kinds of indie games. My favourite games of the year is **Celeste** and **Animal Well**.
+Tabletop RPGs: Used to roll deep in COC and FU; recently wandered into the D&D multiverse and forgot the way out.
+Virtual Reality (VR): Interested in designing interactive VR experiences, such as [Meditation in the Backyard](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.
+Robotics: I was a member of HKU Robocon Team.
 
 <!--
 ### Personal Websites
