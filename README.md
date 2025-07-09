@@ -6,11 +6,11 @@
 ## About Me
 I’m an indie game developer with a deep passion for building immersive, engaging experiences. My work spans game design, programming, modding, and custom engine development.
 
-###🧩 Core Skills
+### 🧩 Core Skills
 **Game Engines**: Extensive experience with Unity, Godot, Cocos2D, Unreal Engine 5, and RPG Maker. I also enjoy building custom engines tailored to specific needs — such as a TRPG replay system.
 **Graphics Programming**: Experienced in shader programming, spine animation, ray tracing, procedural generation, and PBR.
 
-###🎮 Interests
+### 🎮 Interests
 **Gameplay Deisgn Preferences**: Drawn to RPGs, survival & sandbox, Sokoban  puzzles, and card-based systems.
 I love all kinds of indie games. My favourite games of the year is **Celeste** and **Animal Well**.
 Tabletop RPGs: Used to roll deep in COC and FU; recently wandered into the D&D multiverse and forgot the way out.
