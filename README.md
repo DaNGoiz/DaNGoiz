@@ -41,6 +41,7 @@ Tabletop RPGs: Used to roll deep in COC and FU; recently wandered into the D&D m
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
+| GMTK Game Jam 2025 | Loop | 72 hours | [Rollingbuoy](https://gloridifice.itch.io/rollingbuoy) |
 | CiGA Game Jam 2025 | Everyting is Alive | 48 hours | [Color it Out](https://github.com/DaNGoiz/CiGAGameJam2025) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Beans Co.](https://github.com/AkaCMD/GGJ2025) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Return to Sea Level](https://github.com/DaNGoiz/back-to-sea-level) |
