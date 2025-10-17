@@ -18,14 +18,12 @@ My graphics work covers shaders, ray tracing, procedural generation, and physica
 
 ### 🎮 Interests  
 I’m drawn to RPGs, sandbox survival, puzzle, card, and rhythm games.  
-My favorite indie titles of the year are **Celeste** and **Animal Well**.  
+My favorite indie titles of the year are **Öoo** and **Split Fiction**.  
 
 A long-time tabletop RPG player who once delved deep into COC and FU, and somehow got lost in the multiverse of D&D.  
 I also love exploring VR and experimental projects — for instance, [*Meditation in the Backyard*](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.  
 
-**Virtual Reality (VR)**: Interested in designing interactive VR experiences, such as [Meditation in the Backyard](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.
-
-**Robotics**: I was a member of HKU Robocon Team.
+I was a member of HKU Robocon Team.
 
 ## Projects
 ### Games on Steam
