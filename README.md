@@ -51,7 +51,7 @@ I play game jams mainly as **programmer** and **game designer**.
 | CiGA Game Jam 2022 | Trick | 48 hours | [Mind Space](https://github.com/DaNGoiz/mind-space) |
 | Global Game Jam 2022 | Duality | 48 hours | [Bees Coming](https://github.com/DaNGoiz/bees-coming) |
 | CiGA Game Jam 2021 | Lost and Found | 48 hours | [QR Code to Fame](https://store.steampowered.com/app/1551030/_/) |
-| CiGA Game Jam 2020 | <img src="https://img2020.cnblogs.com/blog/1887798/202008/1887798-20200828195756711-436917513.jpg" alt="demo" width="250"/> | 48 hours | [Cracked](https://www.youxibd.com/gamejam/cgjcyber2020/detail/452) |
+| CiGA Game Jam 2020 | <img src="https://img2020.cnblogs.com/blog/1887798/202008/1887798-20200828195756711-436917513.jpg" alt="demo" width="100"/> | 48 hours | [Cracked](https://www.youxibd.com/gamejam/cgjcyber2020/detail/452) |
 
 
 <picture align="center">
