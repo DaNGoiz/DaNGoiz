@@ -1,5 +1,35 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%;" alt="avatar"/>
+
+# 🎮 DaNGo_iz  
+**Crafting immersive worlds through design, code, and curiosity ✨**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dangoiz.com-1D3557?style=for-the-badge)](https://www.dangoiz.com)
+[![Steam](https://img.shields.io/badge/🎮_Steam-Section_Six_Requiem-2B2D42?style=for-the-badge)](https://store.steampowered.com/app/2551590/Section_Six_Requiem/)
+[![Itch.io](https://img.shields.io/badge/🕹️_Itch.io-gloridifice-6A0572?style=for-the-badge)](https://gloridifice.itch.io)
+[![X](https://img.shields.io/badge/𝕏-X.com/DangoIz-000000?style=for-the-badge)](https://x.com/DangoIz)
+[![Email](https://img.shields.io/badge/📧_Email-dangoiz034@gmail.com-E63946?style=for-the-badge)](mailto:dangoiz034@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaNGoiz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaNGoiz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaNGoiz&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views"/>
+</p>
+
+
+
+<div align="center">
+
 # Hi there 👋 I'm DaNGo_iz
 
 [👻 Portfolio](https://www.dangoiz.com) • [𝕏 X](https://x.com/DangoIz) • [📧 Email](mailto:dangoiz034@gmail.com)
@@ -8,13 +38,13 @@
 
 
 ## About Me  
-I’m an indie game developer passionate about creating games with unique mechanics, systemic depth, and immersive experiences.  
-My work bridges design and programming — from gameplay systems to custom engine prototypes — turning ideas into something you can truly play with.  
+I’m an indie game developer passionate about crafting games with unique mechanics, systemic depth, and immersive worlds.
+My work bridges design and programming — from gameplay systems to custom engine prototypes — bringing ideas to life through play.
 
 ### 🧩 Core Skills  
-Experienced with major game engines and development tools.  
-I enjoy building tailored systems, such as TRPG replay frameworks.  
-My graphics work covers shaders, ray tracing, procedural generation, and physically based rendering (PBR).  
+Experienced with major game engines and development tools.
+I enjoy building custom gameplay systems, such as TRPG replay frameworks.
+My graphics work includes shaders, ray tracing, procedural generation, and physically based rendering (PBR).
 
 ### 🎮 Interests  
 I’m drawn to RPGs, sandbox survival, puzzle, card, and rhythm games.  
@@ -23,7 +53,11 @@ My favorite games of the year are **Öoo** and **Split Fiction**.
 A long-time tabletop RPG player who once delved deep into COC and FU, and somehow got lost in the multiverse of D&D.  
 I also love exploring VR and experimental projects — for instance, [*Meditation in the Backyard*](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.  
 
-I was a member of HKU Robocon Team.
+Previously a member of HKU Robocon Team.
+
+### 🧠 Tech Stack  
+C# • Python • C++ • GLSL • Rust  
+Unity • Godot • Bevy • Unreal • OpenGL
 
 ## Projects
 ### Games on Steam
