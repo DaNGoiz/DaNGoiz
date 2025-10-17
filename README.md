@@ -2,13 +2,13 @@
 
 # Hi there 👋 I'm DaNGo_iz
 
-[👻 Portfolio](https://www.dangoiz.com) • [🐦 X](https://x.com/DangoIz) • [📧 Email](mailto:dangoiz034@gmail.com)
+[👻 Portfolio](https://www.dangoiz.com) • [𝕏 X](https://x.com/DangoIz) • [📧 Email](mailto:dangoiz034@gmail.com)
 
 </div>
 
 
 ## About Me  
-I’m an indie game developer passionate about creating immersive and emotionally resonant experiences.  
+I’m an indie game developer passionate about creating games with unique mechanics, systemic depth, and immersive experiences.  
 My work bridges design and programming — from gameplay systems to custom engine prototypes — turning ideas into something you can truly play with.  
 
 ### 🧩 Core Skills  
@@ -33,7 +33,7 @@ I was a member of HKU Robocon Team.
 
 - [QR Code to Fame](https://store.steampowered.com/app/1551030/_/)
 
-### GameJams
+### Game Jams
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
@@ -51,7 +51,7 @@ I play game jams mainly as **programmer** and **game designer**.
 | CiGA Game Jam 2022 | Trick | 48 hours | [Mind Space](https://github.com/DaNGoiz/mind-space) |
 | Global Game Jam 2022 | Duality | 48 hours | [Bees Coming](https://github.com/DaNGoiz/bees-coming) |
 | CiGA Game Jam 2021 | Lost and Found | 48 hours | [QR Code to Fame](https://store.steampowered.com/app/1551030/_/) |
-| CiGA Game Jam 2020 | ![Consumerism](https://www.cnblogs.com/Jay-Auditore/p/13579817.html) | 48 hours | [Cracked](https://www.youxibd.com/gamejam/cgjcyber2020/detail/452) |
+| CiGA Game Jam 2020 | ![Consumerism](https://img2020.cnblogs.com/blog/1887798/202008/1887798-20200828195756711-436917513.jpg) | 48 hours | [Cracked](https://www.youxibd.com/gamejam/cgjcyber2020/detail/452) |
 
 
 <picture align="center">
