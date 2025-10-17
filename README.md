@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%;" alt="avatar"/>
+<img src="https://avatars.githubusercontent.com/u/89913721?v=4" width="120" style="border-radius:50%;" alt="avatar"/>
 
 # 🎮 DaNGo_iz  
-**Crafting immersive worlds through design, code, and curiosity ✨**
+**Gamer, creator, a cyber ghost**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dangoiz.com-1D3557?style=for-the-badge)](https://www.dangoiz.com)
-[![Steam](https://img.shields.io/badge/🎮_Steam-Section_Six_Requiem-2B2D42?style=for-the-badge)](https://store.steampowered.com/app/2551590/Section_Six_Requiem/)
-[![Itch.io](https://img.shields.io/badge/🕹️_Itch.io-gloridifice-6A0572?style=for-the-badge)](https://gloridifice.itch.io)
-[![X](https://img.shields.io/badge/𝕏-X.com/DangoIz-000000?style=for-the-badge)](https://x.com/DangoIz)
-[![Email](https://img.shields.io/badge/📧_Email-dangoiz034@gmail.com-E63946?style=for-the-badge)](mailto:dangoiz034@gmail.com)
+[![Portfolio](https://img.shields.io/badge/👻_Portfolio-dangoiz.com-6C63FF?style=flat-square)](https://www.dangoiz.com)
+[![Steam](https://img.shields.io/badge/🎮_Steam-Section_Six_Requiem-1B2838?style=flat-square)](https://store.steampowered.com/app/2551590/Section_Six_Requiem/)
+[![Itch.io](https://img.shields.io/badge/🕹️_Itch.io-DaNGo_iz-FA5C5C?style=flat-square)](https://dango-iz.itch.io/)
+[![X](https://img.shields.io/badge/𝕏-X.com/DangoIz-000000?style=flat-square)](https://x.com/DangoIz)
+[![Email](https://img.shields.io/badge/📧_Email-dangoiz034@gmail.com-00BFFF?style=flat-square)](mailto:dangoiz034@gmail.com)
 
 </div>
 
----
-
+<--
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaNGoiz&show_icons=true&theme=tokyonight&hide_border=true)
@@ -25,12 +24,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DaNGoiz&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
-
+-->
 
 
 <div align="center">
 
-# Hi there 👋 I'm DaNGo_iz
+# Hi there 👋 I'm iz
 
 [👻 Portfolio](https://www.dangoiz.com) • [𝕏 X](https://x.com/DangoIz) • [📧 Email](mailto:dangoiz034@gmail.com)
 
