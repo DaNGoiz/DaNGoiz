@@ -66,7 +66,7 @@ I play game jams mainly as **programmer** and **game designer**.
 | Global Game Jam 2025 | Bubble | 48 hours | [Beans Co.](https://github.com/AkaCMD/GGJ2025) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Return to Sea Level](https://github.com/DaNGoiz/back-to-sea-level) |
 | Unity Game Jam 2024 | It Never Ends | 1 week | [Sushi Strikes Back](https://github.com/aidendenden/UnityGamejam2024) |
-| BOOOM Porsche Jam 2024 | Change your ____, not your ____. | 3 weeks | [Origina Intention](https://gitee.com/Li_jiang233/OriginaIntention/tree/master) |
+| BOOOM Porsche Jam 2024 | Change your ____ , not your ____ . | 3 weeks | [Origina Intention](https://gitee.com/Li_jiang233/OriginaIntention/tree/master) |
 | CiGA Game Jam 2024 | Limit and Limitless | 48 hours | [Vision of Limitless](https://github.com/DaNGoiz/vision-of-limitless) |
 | Global Game Jam 2024 | Make Me Laugh | 7 days | [Echo Dungeon](https://github.com/DaNGoiz/echo-dungeon) |
 | CiGA Game Jam 2023 | Touch | 48 hours | [Cat Dash](https://github.com/DaNGoiz/cat-dash) |
