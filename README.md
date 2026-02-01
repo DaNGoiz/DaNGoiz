@@ -61,13 +61,15 @@ Unity • Godot • Bevy • Unreal • OpenGL
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
+| Global Game Jam 2026 | Mask | 48 hours | [Mask Duelist](https://dango-iz.itch.io/mask-duelist) |
+| Thinkycon Jam 2025 | N/A | 9 days | [Chair Impact](https://akacmd.itch.io/chair-impact) |
 | GMTK Game Jam 2025 | Loop | 96 hours | [Rollingbuoy](https://gloridifice.itch.io/rollingbuoy) |
-| CiGA Game Jam 2025 | Everyting is Alive | 48 hours | [Color it Out](https://github.com/DaNGoiz/CiGAGameJam2025) |
-| Global Game Jam 2025 | Bubble | 48 hours | [Beans Co.](https://github.com/AkaCMD/GGJ2025) |
-| Global Game Jam 2025 | Bubble | 48 hours | [Return to Sea Level](https://github.com/DaNGoiz/back-to-sea-level) |
+| CiGA Game Jam 2025 | Everyting is Alive | 48 hours | [Color it Out](https://dango-iz.itch.io/color-it-out) |
+| Global Game Jam 2025 | Bubble | 48 hours | [Beans Co.](https://akacmd.itch.io/beans-co) |
+| Global Game Jam 2025 | Bubble | 48 hours | [Return to Sea Level](https://dango-iz.itch.io/return-to-sea-level) |
 | Unity Game Jam 2024 | It Never Ends | 1 week | [Sushi Strikes Back](https://github.com/aidendenden/UnityGamejam2024) |
 | BOOOM Porsche Jam 2024 | Change your ____ , not your ____ . | 3 weeks | [Origina Intention](https://gitee.com/Li_jiang233/OriginaIntention/tree/master) |
-| CiGA Game Jam 2024 | Limit and Limitless | 48 hours | [Vision of Limitless](https://github.com/DaNGoiz/vision-of-limitless) |
+| CiGA Game Jam 2024 | Limit and Limitless | 48 hours | [Vision of Limitless](https://dango-iz.itch.io/vision-of-limitless) |
 | Global Game Jam 2024 | Make Me Laugh | 7 days | [Echo Dungeon](https://github.com/DaNGoiz/echo-dungeon) |
 | CiGA Game Jam 2023 | Touch | 48 hours | [Cat Dash](https://github.com/DaNGoiz/cat-dash) |
 | BOOOM Game Jam 2023 | Re | 3 weeks | [Section Six Requiem](https://store.steampowered.com/app/2551590/Section_Six_Requiem/) |
