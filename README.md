@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/89913721?v=4" width="120" style="border-radius:50%;" alt="avatar"/>
 
 # DaNGo_iz  
-**Gamer, creator, a cyber ghost**
+**Indie game developer | Illustration artist | A cyber ghost**
 
 [![Portfolio](https://img.shields.io/badge/👻_Portfolio-dangoiz.com-6C63FF?style=flat-square)](https://www.dangoiz.com)
 [![Steam](https://img.shields.io/badge/🎮_Steam-Section_Six_Requiem-1E90FF?style=flat-square)](https://store.steampowered.com/app/2551590/Section_Six_Requiem/)
@@ -37,30 +37,15 @@ I enjoy building custom gameplay systems, such as TRPG replay frameworks.
 My graphics work includes shaders, ray tracing, procedural generation, and physically based rendering (PBR).
 
 ### 🎮 Interests  
-I’m drawn to RPGs, sandbox survival, puzzle, card, and rhythm games.  
-My favorite games of the year are **Öoo** and **Split Fiction**.  
-
-A long-time tabletop RPG player who once delved deep into COC and FU, and somehow got lost in the multiverse of D&D.  
-I also love exploring VR and experimental projects — for instance, [*Meditation in the Backyard*](https://github.com/DaNGoiz/meditation-in-the-backyard) on Side Quest 3.  
-
-Previously a member of HKU Robocon Team.
-
-### 🧠 Tech Stack  
-C# • Python • C++ • GLSL • Rust  
-Unity • Godot • Bevy • Unreal • OpenGL
+I’m drawn to RPGs (a long-time tabletop RPG player), sandbox survival, and rhythm games.
 
 ## Projects
-### Games on Steam
-- [Section Six Requiem](https://store.steampowered.com/app/2551590/Section_Six_Requiem/)
-
-- [Kelvin and the Chateau](https://store.steampowered.com/app/1561910/__Kelvin_And_The_Chateau/)
-
-- [QR Code to Fame](https://store.steampowered.com/app/1551030/_/)
-
+### Check my latest & released games [here](https://en.dangoiz.com/recent-games).
 ### Game Jams
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
+| Cute Girls Doing Cool Things VN Jam 2026 | N/A | 2 months | [OVERDRIVE (not available yet)](https://github.com/DaNGoiz/OVERDRIVE) |
 | Global Game Jam 2026 | Mask | 48 hours | [Mask Duelist](https://dango-iz.itch.io/mask-duelist) |
 | Thinkycon Jam 2025 | N/A | 9 days | [Chair Impact](https://akacmd.itch.io/chair-impact) |
 | GMTK Game Jam 2025 | Loop | 96 hours | [Rollingbuoy](https://gloridifice.itch.io/rollingbuoy) |
