@@ -46,7 +46,7 @@ I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
 | GMTK Game Jam 2026 | Count Down | 96 hours | [One Last Match](https://luna0326.itch.io/one-last-match) |
-| Cute Girls Doing Cool Things VN Jam 2026 | N/A | 2 months | [OVERDRIVE (not available yet)](https://github.com/DaNGoiz/OVERDRIVE) |
+| Cute Girls Doing Cool Things VN Jam 2026 | Summer Blockbuster | 2 months | [OVERDRIVE (not available yet)](https://github.com/DaNGoiz/OVERDRIVE) |
 | Global Game Jam 2026 | Mask | 48 hours | [Mask Duelist](https://dango-iz.itch.io/mask-duelist) |
 | Thinkycon Jam 2025 | N/A | 9 days | [Chair Impact](https://akacmd.itch.io/chair-impact) |
 | GMTK Game Jam 2025 | Loop | 96 hours | [Rollingbuoy](https://gloridifice.itch.io/rollingbuoy) |
