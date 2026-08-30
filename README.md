@@ -45,6 +45,7 @@ I’m drawn to RPGs (a long-time tabletop RPG player), sandbox survival, and rhy
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
+| Brackeys Game Jam 2026.2 | Trust No One | 7 days | [Errant Vayage](https://lethalam.itch.io/errant-vayage) |
 | Cute Girls Doing Cool Things VN Jam 2026 | Summer Blockbuster | 2 months | [OVERDRIVE](https://github.com/DaNGoiz/OVERDRIVE) |
 | GMTK Game Jam 2026 | Count Down | 96 hours | [One Last Match](https://luna0326.itch.io/one-last-match) |
 | Global Game Jam 2026 | Mask | 48 hours | [Mask Duelist](https://dango-iz.itch.io/mask-duelist) |
@@ -53,7 +54,7 @@ I play game jams mainly as **programmer** and **game designer**.
 | CiGA Game Jam 2025 | Everyting is Alive | 48 hours | [Color it Out](https://dango-iz.itch.io/color-it-out) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Beans Co.](https://akacmd.itch.io/beans-co) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Return to Sea Level](https://dango-iz.itch.io/return-to-sea-level) |
-| Unity Game Jam 2024 | It Never Ends | 1 week | [Sushi Strikes Back](https://github.com/aidendenden/UnityGamejam2024) |
+| Unity Game Jam 2024 | It Never Ends | 7 days | [Sushi Strikes Back](https://github.com/aidendenden/UnityGamejam2024) |
 | BOOOM Porsche Jam 2024 | Change your ____ , not your ____ . | 3 weeks | [Origina Intention](https://gitee.com/Li_jiang233/OriginaIntention/tree/master) |
 | CiGA Game Jam 2024 | Limit and Limitless | 48 hours | [Vision of Limitless](https://dango-iz.itch.io/vision-of-limitless) |
 | Global Game Jam 2024 | Make Me Laugh | 7 days | [Echo Dungeon](https://github.com/DaNGoiz/echo-dungeon) |
