@@ -45,6 +45,7 @@ I’m drawn to RPGs (a long-time tabletop RPG player), sandbox survival, and rhy
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
+| TapTap Spotlight Jam 2026 | Emergence | 21 days | [Aquarium](https://www.taptap.cn/app/985356?os=pc) |
 | Brackeys Game Jam 2026.2 | Trust No One | 7 days | [Errant Vayage](https://lethalam.itch.io/errant-vayage) |
 | Cute Girls Doing Cool Things VN Jam 2026 | Summer Blockbuster | 2 months | [OVERDRIVE](https://github.com/DaNGoiz/OVERDRIVE) |
 | GMTK Game Jam 2026 | Count Down | 96 hours | [One Last Match](https://luna0326.itch.io/one-last-match) |
