@@ -29,15 +29,13 @@
 
 ## About Me  
 I’m an indie game developer passionate about crafting games with unique mechanics, systemic depth, and immersive worlds.
-My work bridges design and programming — from gameplay systems to custom engine prototypes — bringing ideas to life through play.
-
-### 🧩 Core Skills  
-Experienced with major game engines and development tools.
-I enjoy building custom gameplay systems, such as TRPG replay frameworks.
-My graphics work includes shaders, ray tracing, procedural generation, and physically based rendering (PBR).
+I use Godot for personal game projects and Unreal Engine for professional work.
+I'm passionate about bringing technology and aesthetics together, particularly through graphics programming, shaders, and procedural generation.
+I love experimenting with new ideas and building custom systems, from gameplay mechanics to tools.
+While AI helps me work more efficiently, I still enjoy the hands-on process of building things from the ground up, piece by piece.
 
 ### 🎮 Interests  
-I’m drawn to RPGs (a long-time tabletop RPG player), sandbox survival, and rhythm games.
+I’m drawn to RPGs (a long-time TRPG player), sandbox survival, adventure and puzzle games.
 
 ## Projects
 ### Check my latest & released games [here](https://en.dangoiz.com/recent-games).
