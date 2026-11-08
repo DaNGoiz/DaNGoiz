@@ -43,6 +43,8 @@ I’m drawn to RPGs (a long-time TRPG player), sandbox survival, adventure and p
 I play game jams mainly as **programmer** and **game designer**.
 | Jam | Topic | Duration | Project |
 |-----|-----|-----|-----|
+| thatgamejam #02 2026 | [Sound Track](https://youtu.be/z71a6UtZ6GY?si=XatcovQHruN3ZUT0) | 16 days | [Lost Light](https://dibalabulush.itch.io/lost-light) |
+| thatgamejam #02 2026 | [Sound Track](https://youtu.be/z71a6UtZ6GY?si=XatcovQHruN3ZUT0) | 16 days | [Mist Papura](https://www.gcores.com/games/182709) |
 | TapTap Spotlight Jam 2026 | Emergence | 21 days | [Aquarium](https://www.taptap.cn/app/985356?os=pc) |
 | Brackeys Game Jam 2026.2 | Trust No One | 7 days | [Errant Vayage](https://lethalam.itch.io/errant-vayage) |
 | Cute Girls Doing Cool Things VN Jam 2026 | Summer Blockbuster | 2 months | [OVERDRIVE](https://github.com/DaNGoiz/OVERDRIVE) |
@@ -53,8 +55,8 @@ I play game jams mainly as **programmer** and **game designer**.
 | CiGA Game Jam 2025 | Everyting is Alive | 48 hours | [Color it Out](https://dango-iz.itch.io/color-it-out) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Beans Co.](https://akacmd.itch.io/beans-co) |
 | Global Game Jam 2025 | Bubble | 48 hours | [Return to Sea Level](https://dango-iz.itch.io/return-to-sea-level) |
-| Unity Game Jam 2024 | It Never Ends | 7 days | [Sushi Strikes Back](https://github.com/aidendenden/UnityGamejam2024) |
-| BOOOM Porsche Jam 2024 | Change your ____ , not your ____ . | 3 weeks | [Origina Intention](https://gitee.com/Li_jiang233/OriginaIntention/tree/master) |
+| Unity Game Jam 2024 | It Never Ends | 7 days | [Sushi Strikes Back](https://www.gcores.com/games/149509) |
+| BOOOM Porsche Jam 2024 | Change your ____ , not your ____ . | 3 weeks | [Prathama](https://www.gcores.com/games/133677) |
 | CiGA Game Jam 2024 | Limit and Limitless | 48 hours | [Vision of Limitless](https://dango-iz.itch.io/vision-of-limitless) |
 | Global Game Jam 2024 | Make Me Laugh | 7 days | [Echo Dungeon](https://github.com/DaNGoiz/echo-dungeon) |
 | CiGA Game Jam 2023 | Touch | 48 hours | [Cat Dash](https://github.com/DaNGoiz/cat-dash) |
